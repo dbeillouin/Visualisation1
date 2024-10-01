@@ -1,0 +1,31 @@
+{
+    "id": "7BC1445C",
+    "path": "~/Documents/cours_MA/Visualisation__1/01-Before_the_analyses.Rmd",
+    "project_path": "01-Before_the_analyses.Rmd",
+    "type": "r_markdown",
+    "hash": "52411815",
+    "contents": "",
+    "dirty": false,
+    "created": 1727608414224.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "259,0",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "18968:8284",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1727608498,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1727608498332,
+    "read_only": false,
+    "read_only_alternatives": []
+}
